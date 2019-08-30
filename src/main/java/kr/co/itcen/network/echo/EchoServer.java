@@ -1,4 +1,4 @@
-package kr.co.itcen.networck.echo;
+package kr.co.itcen.network.echo;
 
 import java.io.IOException;
 import java.net.InetAddress;
